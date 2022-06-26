@@ -10,5 +10,5 @@
 
 |            | Онлайн           | Оффлайн |
 | ---------- | ---------------- | ------- |
-| Сочинение  | Generative | Fixed   |
+| Сочинение  | Generative       | Fixed   |
 | Исполнение | Live electronics | Tape    |
