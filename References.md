@@ -1,5 +1,6 @@
 Wavetable synthesis: https://www.youtube.com/watch?v=ssIJ8kFG7qs&t=48s
 https://thewolfsound.com/sound-synthesis/wavetable-synthesis-algorithm/
+
 BIBLIOGRAPHY
 
 [1] Taylor series expansion of the sine function on MIT Open CourseWare
