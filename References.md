@@ -1,5 +1,4 @@
-Wavetable synthesis: https://www.youtube.com/watch?v=ssIJ8kFG7qs&t=48s
-https://thewolfsound.com/sound-synthesis/wavetable-synthesis-algorithm/
+Wavetable synthesis: https://thewolfsound.com/sound-synthesis/wavetable-synthesis-algorithm/
 
 BIBLIOGRAPHY
 
