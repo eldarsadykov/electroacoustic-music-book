@@ -15,3 +15,15 @@ BIBLIOGRAPHY
 6. Martin Russ, Sound Synthesis and Sampling, 3rd Edition, Focal Press, 2009.
 
 7. Giovanni De Poli, A Tutorial on Digital Sound Synthesis Techniques, Computer Music Journal, January 1992.
+
+GarethLoy-ComposingwithComputers-aSurveyofSomeCompositionalFormalismsandMusicProgrammingLanguages-1989
+
+THE OM COMPOSER’S BOOK Volume Two
+
+The Theory and Technique of Electronic Music
+
+Ксенакис, Я. – Формализованная музыка
+
+Математическая составляющая
+
+Холопов, Ю.Н. – Теория современной композиции 2
